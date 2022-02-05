@@ -17,3 +17,6 @@ SBUS-Switch
 • beliebig kaskadierbar (limitiert durch max Anzahl Kanäle oder Mischer)
 
 • 2 Ausgänge dimmbar (PWM 15Hz - 16kHz) Dimmfunktion wahlweise aktivierbar
+
+
+Languages: For now all documents are written in German. I will support English requests as well
