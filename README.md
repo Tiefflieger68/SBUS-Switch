@@ -1,8 +1,8 @@
 SBUS-Switch (siehe auch SBUS-Switch V2.4.pdf)
 
-• optimiert für OpenTX und EdgeTX Sender
-
 • Schaltmodul für RC-Modellbau mit 8 Schaltausgängen
+
+• optimiert für OpenTX und EdgeTX Sender
 
 • Anschluss via SBUS
 
@@ -18,5 +18,25 @@ SBUS-Switch (siehe auch SBUS-Switch V2.4.pdf)
 
 • 2 Ausgänge dimmbar (PWM 15Hz - 16kHz) Dimmfunktion wahlweise aktivierbar
 
+English:
 
-Languages: For now all documents are written in German. I will support English requests as well
+For now all documents are written in German. I will support English requests as well
+
+• Switch Module for RC Models with 8 switched outputs
+
+• optimized for OpenTX and EdgeTX Radios
+
+• connected by SBUS
+
+• All 8 outputs can be controlled by one single channel. Or
+
+• every output can be controlled by a seperate channel
+
+• different power drivers possible
+
+• easy hardware
+
+• unlimited stackable (limit is the max number of channels and mixers)
+
+• 2 outputs are dimmable (PWM 15Hz - 16kHz)
+
