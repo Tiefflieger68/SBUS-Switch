@@ -1,5 +1,5 @@
 ## SBUS-Switch 
-siehe auch [SBUS-Switch Vx.x.pdf] (https://github.com/Tiefflieger68/SBUS-Switch/tree/main/Docs)
+siehe auch https://github.com/Tiefflieger68/SBUS-Switch/tree/main/Docs
 
 • Schaltmodul für RC-Modellbau mit 8 Schaltausgängen
 
