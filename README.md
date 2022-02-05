@@ -1,7 +1,6 @@
 # SBUS-Switch
 
 • Schaltmodul für RC-Modellbau mit 8 Schaltausgängen
-
 • Anschluss via SBUS
 • alle 8 Ausgänge über einen einzigen Kanal steuerbar oder
 • jeder Ausgang über seperaten Kanal steuerbar
