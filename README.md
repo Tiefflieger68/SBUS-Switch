@@ -1,4 +1,4 @@
-SBUS-Switch
+SBUS-Switch (siehe auch SBUS-Switch V2.4.pdf)
 
 • optimiert für OpenTX und EdgeTX Sender
 
