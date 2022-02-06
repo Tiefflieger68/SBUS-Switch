@@ -11,7 +11,7 @@ siehe auch SBUS-Switch Vx.x.pdf https://github.com/Tiefflieger68/SBUS-Switch/tre
 • 2 Ausgänge dimmbar (PWM 15Hz - 16kHz) Dimmfunktion wahlweise aktivierbar  
 
 
-![IMAGE ALT TEXT HERE](https://github.com/Tiefflieger68/SBUS-Switch/blob/main/pics/20201114_183343395_mini.jpg)
+![image lost ?](https://github.com/Tiefflieger68/SBUS-Switch/blob/main/pics/20201114_183343395_mini.jpg)
 
 ## English:  
 For now all documents are written in German. I will support English requests as well  
@@ -25,3 +25,4 @@ For now all documents are written in German. I will support English requests as 
 • unlimited stackable (limit is the max number of channels and mixers)  
 • 2 outputs are dimmable (PWM 15Hz - 16kHz)  
 
+![image lost ?](https://github.com/Tiefflieger68/SBUS-Switch/blob/main/pics/SBUS-Switch%20V2.2%20cut.png)
