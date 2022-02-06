@@ -1,5 +1,5 @@
 ## SBUS-Switch  
-siehe auch SBUS-Switch Vx.x.pdf https://github.com/Tiefflieger68/SBUS-Switch/tree/main/Docs  
+siehe auch Doku [SBUS-Switch V2.4.pdf](https://github.com/Tiefflieger68/SBUS-Switch/blob/main/Docs/SBUS-Switch%20V2.4.pdf)  
 • Schaltmodul für RC-Modellbau mit 8 Schaltausgängen  
 • optimiert für OpenTX und EdgeTX Sender  
 • Anschluss via SBUS  
@@ -26,3 +26,4 @@ For now all documents are written in German. I will support English requests as 
 • 2 outputs are dimmable (PWM 15Hz - 16kHz)  
 
 ![image lost ?](https://github.com/Tiefflieger68/SBUS-Switch/blob/main/pics/SBUS-Switch%20V2.2%20cut.png)
+
