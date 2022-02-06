@@ -11,6 +11,8 @@ siehe auch SBUS-Switch Vx.x.pdf https://github.com/Tiefflieger68/SBUS-Switch/tre
 • 2 Ausgänge dimmbar (PWM 15Hz - 16kHz) Dimmfunktion wahlweise aktivierbar  
 
 
+![IMAGE ALT TEXT HERE](https://github.com/Tiefflieger68/SBUS-Switch/blob/main/pics/20201114_183343395_mini.jpg)
+
 ## English:  
 For now all documents are written in German. I will support English requests as well  
 • Switch Module for RC Models with 8 switched outputs  
