@@ -1,5 +1,5 @@
 ## SBUS-Switch  
-siehe auch Doku [SBUS-Switch V2.4.pdf](https://github.com/Tiefflieger68/SBUS-Switch/blob/main/Docs/SBUS-Switch%20V2.4.pdf)  
+siehe auch Doku [SBUS-Switch V2.4.pdf](Docs/SBUS-Switch%20V2.4.pdf)  
 • Schaltmodul für RC-Modellbau mit 8 Schaltausgängen  
 • optimiert für OpenTX und EdgeTX Sender  
 • Anschluss via SBUS  
@@ -11,7 +11,8 @@ siehe auch Doku [SBUS-Switch V2.4.pdf](https://github.com/Tiefflieger68/SBUS-Swi
 • 2 Ausgänge dimmbar (PWM 15Hz - 16kHz) Dimmfunktion wahlweise aktivierbar  
 
 
-![image lost ?](https://github.com/Tiefflieger68/SBUS-Switch/blob/main/pics/20201114_183343395_mini.jpg)
+![image lost ?](pics/20201114_183343395_mini.jpg)
+![image lost ?](pics/20211119_203742467_mini.jpg) 
 
 ## English:  
 For now all documents are written in German. I will support English requests as well  
@@ -25,5 +26,5 @@ For now all documents are written in German. I will support English requests as 
 • unlimited stackable (limit is the max number of channels and mixers)  
 • 2 outputs are dimmable (PWM 15Hz - 16kHz)  
 
-![image lost ?](https://github.com/Tiefflieger68/SBUS-Switch/blob/main/pics/SBUS-Switch%20V2.2%20cut.png)
+![image lost ?](pics/SBUS-Switch%20V2.2%20cut.png)
 
