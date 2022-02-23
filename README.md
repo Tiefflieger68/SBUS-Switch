@@ -10,6 +10,8 @@ siehe auch Doku [SBUS-Switch V2.4.pdf](Docs/SBUS-Switch%20V2.4.pdf)
 • beliebig kaskadierbar (limitiert durch max Anzahl Kanäle oder Mischer)  
 • 2 Ausgänge dimmbar (PWM 15Hz - 16kHz) Dimmfunktion wahlweise aktivierbar  
 
+Support Forum:
+https://www.rc-network.de/threads/sbus-switch.696022/
 
 ![image lost ?](pics/20201114_183343395_mini.jpg)
 ![image lost ?](pics/20211119_203742467_mini.jpg) 
