@@ -7,7 +7,7 @@ siehe auch Doku [SBUS-Switch V2.4.pdf](Docs/SBUS-Switch%20V2.4.pdf)
 • jeder Ausgang über seperaten Kanal steuerbar  
 • verschiedene Treiberstufen möglich (Plus- oder Minuspol geschaltet)  
 • einfache Hardware  
-• beliebig kaskadierbar (limitiert durch max Anzahl Kanäle oder Mischer)  
+• beliebig kaskadierbar (limitiert durch max Anzahl Kanäle oder Mischer des Senders)  
 • 2 Ausgänge dimmbar (PWM 15Hz - 16kHz) Dimmfunktion wahlweise aktivierbar  
 
 Support Forum:
@@ -25,7 +25,7 @@ For now all documents are written in German. I will support English requests as 
 • every output can be controlled by a seperate channel  
 • different power drivers possible  
 • easy hardware  
-• unlimited stackable (limit is the max number of channels and mixers)  
+• unlimited stackable (limit is the max number of channels and mixers of the radio)  
 • 2 outputs are dimmable (PWM 15Hz - 16kHz)  
 
 ![image lost ?](pics/SBUS-Switch%20V2.2%20cut.png)
