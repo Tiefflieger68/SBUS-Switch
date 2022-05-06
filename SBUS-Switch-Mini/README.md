@@ -1,4 +1,4 @@
-## SBUS-Switch-T85  
+## SBUS-Switch-Mini  
   
 ... ist die kleine Schwester des SBUS-Switch  
   
@@ -7,7 +7,7 @@
 • kleine Lasten (bis 40mA pro Ausgang) ohne Treiberstufe möglich
 • Anschluss via SBUS  
 • jeder Ausgang über eigenen Kanal steuerbar (kein Einzelkanal Mode)  
-• einfache Hardware und kleine Bauform 
+• einfache Hardware und kleine Bauform (ATTiny85)
 • beliebig kaskadierbar (limitiert durch max Anzahl Kanäle oder Mischer des Senders)  
 • 2 Ausgänge dimmbar (PWM 120Hz) Dimmfunktion wahlweise aktivierbar  
 
