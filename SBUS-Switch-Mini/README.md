@@ -4,8 +4,8 @@
   
   
 • Schaltmodul für RC-Modellbau mit 3 Schaltausgängen  
-• kleine Lasten (bis 40mA pro Ausgang) ohne Treiberstufe möglich
 • Anschluss via SBUS  
+• kleine Lasten (bis 40mA pro Ausgang) ohne Treiberstufe möglich  
 • jeder Ausgang über eigenen Kanal steuerbar (kein Einzelkanal Mode)  
 • einfache Hardware und kleine Bauform (ATTiny85)
 • beliebig kaskadierbar (limitiert durch max Anzahl Kanäle oder Mischer des Senders)  
