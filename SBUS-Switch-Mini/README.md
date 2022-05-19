@@ -9,14 +9,11 @@
 • jeder Ausgang über eigenen Kanal steuerbar (kein Einzelkanal Mode)  
 • einfache Hardware und kleine Bauform (ATTiny85)  
 • beliebig kaskadierbar (limitiert durch max Anzahl Kanäle oder Mischer des Senders)  
-• 2 Ausgänge dimmbar (PWM 120Hz) Dimmfunktion wahlweise aktivierbar  
+• 2 Ausgänge wahlweise dimmbar   
 
 Support Forum:
 https://www.rc-network.de/threads/sbus-switch.696022/
   
     
 	
-##     -----------   in Kürze hier   -----------  
-
-
 
