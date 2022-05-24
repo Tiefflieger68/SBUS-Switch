@@ -16,7 +16,7 @@ https://www.rc-network.de/threads/sbus-switch.696022/
 ![image lost ?](pics/20201114_183343395_mini.jpg)
 ![image lost ?](pics/20211119_203742467_mini.jpg) 
 
-# SBUS-Switch-Mini  
+### SBUS-Switch-Mini  
 Es gibt eine kleinere Variante auf Basis ATTiny85
 https://github.com/Tiefflieger68/SBUS-Switch/tree/main/SBUS-Switch-Mini  
 
