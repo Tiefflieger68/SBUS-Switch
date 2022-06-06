@@ -1,5 +1,5 @@
 ## SBUS-Switch  
-siehe auch Doku [SBUS-Switch V2.4.pdf](Docs/SBUS-Switch%20V2.4.pdf)  
+siehe auch Doku [SBUS-Switch V2.4.pdf](Docs/)  
 • Schaltmodul für RC-Modellbau mit 8 Schaltausgängen  
 • optimiert für OpenTX und EdgeTX Sender  
 • Anschluss via SBUS  
