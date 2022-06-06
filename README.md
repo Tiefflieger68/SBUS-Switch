@@ -1,5 +1,5 @@
 ## SBUS-Switch  
-siehe auch Doku [SBUS-Switch V2.4.pdf](https://github.com/Tiefflieger68/SBUS-Switch/tree/main/docs)  
+siehe auch Doku [SBUS-Switch V2.4.pdf](docs)  
 • Schaltmodul für RC-Modellbau mit 8 Schaltausgängen  
 • optimiert für OpenTX und EdgeTX Sender  
 • Anschluss via SBUS  
