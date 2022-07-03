@@ -8,7 +8,7 @@ siehe auch Doku [SBUS-Switch V2.4.x.pdf](docs)
 • verschiedene Treiberstufen möglich (Plus- oder Minuspol geschaltet)  
 • einfache Hardware  
 • beliebig kaskadierbar (limitiert durch max Anzahl Kanäle oder Mischer des Senders)  
-• 2 Ausgänge dimmbar (PWM 15Hz - 16kHz) Dimmfunktion wahlweise aktivierbar  
+• 2 Ausgänge dimmbar (PWM 15Hz - 16kHz) Dimmfunktion einzeln aktivierbar  
 
 Support Forum:
 https://www.rc-network.de/threads/sbus-switch.696022/
