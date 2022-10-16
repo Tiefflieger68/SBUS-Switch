@@ -22,7 +22,8 @@ https://github.com/Tiefflieger68/SBUS-Switch/tree/main/SBUS-Switch-Mini
 
 
 ## English:  
-For now all documents are written in German. I will support English requests as well  
+For now all documents are written in German. Google Translator for documents should work properly.  
+I will support English requests as well  
 • Switch Module for RC Models with 8 switched outputs  
 • optimized for OpenTX and EdgeTX Radios  
 • connected by SBUS  
