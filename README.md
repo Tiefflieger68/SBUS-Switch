@@ -24,7 +24,7 @@ https://github.com/Tiefflieger68/SBUS-Switch/tree/main/SBUS-Switch-Mini
 
 
 ## English:  
-For now all documents are written in German. Google Translator for the detailed docs should work properly.  
+For now all [documents](docs) are written in German. Google Translator for the detailed docs should work properly.  
 I will support English requests as well.  
 
 Bullet points:
