@@ -39,5 +39,6 @@ Bullet points:
 • 2 outputs are dimmable (PWM 15Hz - 16kHz)  
 • Lua Script for programmimg of openTX/EdgeTX Radios (color display only) - Find "LUA Tool Script"   
 
+Schaltplan / Schematic:  
 ![image lost ?](pics/SBUS-Switch%20V2.2%20cut.png)
 
