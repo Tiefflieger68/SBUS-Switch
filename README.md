@@ -9,8 +9,8 @@ siehe auch ausführliche Dokumentation [SBUS-Switch V2.4.x.pdf](docs)
 • einfache Hardware  
 • beliebig kaskadierbar (limitiert durch max Anzahl Kanäle oder Mischer des Senders)  
 • 2 Ausgänge dimmbar (PWM 15Hz - 16kHz) Dimmfunktion einzeln aktivierbar  
-• Lua Script für Programmierung von openTX/EdgeTX Sender (mit Farbdisplay) - Siehe "LUA Tool Script"  
-
+• Lua Script für Programmierung von openTX/EdgeTX Sender (mit Farbdisplay) - Siehe [LUA Tool Script]
+(https://github.com/Tiefflieger68/SBUS-Switch/tree/main/LUA%20Tool%20Script)  
 
 Support Forum:
 https://www.rc-network.de/threads/sbus-switch.696022/
@@ -37,7 +37,8 @@ Bullet points:
 • easy hardware  
 • unlimited stackable (limit is the max number of channels and mixers of the radio)  
 • 2 outputs are dimmable (PWM 15Hz - 16kHz)  
-• Lua Script for programmimg of openTX/EdgeTX Radios (color display only) - Find [LUA Tool Script](https://github.com/Tiefflieger68/SBUS-Switch/tree/main/SBUS-Switch-Mini)  
+• Lua Script for programmimg of openTX/EdgeTX Radios (color display only) - Find [LUA Tool Script]
+(https://github.com/Tiefflieger68/SBUS-Switch/tree/main/LUA%20Tool%20Script)  
 
 Schaltplan / Schematic:  
 ![image lost ?](pics/SBUS-Switch%20V2.2%20cut.png)
