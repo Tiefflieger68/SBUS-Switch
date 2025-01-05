@@ -4,7 +4,7 @@ siehe auch ausführliche Dokumentation [SBUS-Switch V2.4.x.pdf](docs)
 • optimiert für OpenTX und EdgeTX Sender  
 • Anschluss via SBUS  
 • alle 8 Ausgänge über einen einzigen Kanal steuerbar oder  
-• jeder Ausgang über seperaten Kanal steuerbar  
+• jeder Ausgang über separaten Kanal steuerbar  
 • verschiedene Treiberstufen möglich (Plus- oder Minuspol geschaltet)  
 • einfache Hardware  
 • beliebig kaskadierbar (limitiert durch max Anzahl Kanäle oder Mischer des Senders)  
@@ -31,7 +31,7 @@ Bullet points:
 • optimized for OpenTX and EdgeTX Radios  
 • connected by SBUS  
 • All 8 outputs can be controlled by one single channel. Or  
-• every output can be controlled by a seperate channel  
+• every output can be controlled by a separate channel  
 • different power drivers possible  
 • easy hardware  
 • unlimited stackable (limit is the max number of channels and mixers of the radio)  
